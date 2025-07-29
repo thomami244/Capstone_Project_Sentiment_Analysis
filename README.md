@@ -169,7 +169,7 @@ sentiment-recommendation-system/
 
 **Capstone Project - Sentiment Analysis & Recommendation Systems**
 
-Built as part of a comprehensive machine learning program focusing on practical applications of collaborative filtering and natural language processing.
+Built by Michael Thomas as part of the curriculumn of a MSC in AI/ ML.
 
 ---
 
