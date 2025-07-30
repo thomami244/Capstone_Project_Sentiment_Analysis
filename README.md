@@ -6,6 +6,10 @@ A comprehensive machine learning project that combines collaborative filtering w
 
 **Try the application:** [https://sentiment-flask-app-8de3f8cb8de9.herokuapp.com/](https://sentiment-flask-app-8de3f8cb8de9.herokuapp.com/)
 
+
+<img width="1195" height="800" alt="image" src="https://github.com/user-attachments/assets/0e6cef98-e5ca-4b24-ad10-3f25f678d2e3" /> <img width="611" height="846" alt="image" src="https://github.com/user-attachments/assets/1e79d5eb-7a12-4bd6-8b27-0f3db779abce" />
+
+
 ## 📋 Project Overview
 
 This project implements a sophisticated recommendation system that:
