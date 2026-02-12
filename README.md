@@ -2,9 +2,12 @@
 
 A comprehensive machine learning project that combines collaborative filtering with sentiment analysis to provide personalized product recommendations.
 
-## 🌐 Live Demo
+## 🌐 Demo
 
-**Try the application:** [https://sentiment-flask-app-8de3f8cb8de9.herokuapp.com/](https://sentiment-flask-app-8de3f8cb8de9.herokuapp.com/)
+<img width="1200" height="878" alt="image" src="https://github.com/user-attachments/assets/c791f548-4850-42e7-9d6e-831a373ad512" />
+
+<img width="952" height="1177" alt="image" src="https://github.com/user-attachments/assets/4994bc83-c8c9-400d-bf15-e45823f7112d" />
+
 
 ## 📋 Project Overview
 
