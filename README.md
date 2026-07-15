@@ -176,4 +176,8 @@ Built by Michael Thomas as part of the curriculumn of a MSC in AI/ ML.
 
 ---
 
-**🌐 Try it now:** [https://sentiment-flask-app-8de3f8cb8de9.herokuapp.com/](https://sentiment-flask-app-8de3f8cb8de9.herokuapp.com/)
+## Related Work
+
+This project forms part of my broader work in applied machine learning and AI.
+
+I'm currently building **TailyX AI** (https://tailyx.ai), where similar machine learning principles are applied to inbound lead qualification and revenue operations.
